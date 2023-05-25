@@ -1,3 +1,7 @@
+<html>
+<head>
+</head>
+<body>
 <body onload="init();" style="margin:0px;">
 <div id="animation_container" style="background-color: rgb(255, 255, 255); width: 889.825px; height: 634px;">
 <canvas id="canvas" width="889" height="634" style="position: absolute; background-color: rgb(255, 255, 255); width: 889.825px; height: 634px;"></canvas>
@@ -7,3 +11,5 @@
 <div id="loader" style="display: none;">wait, initializing...</div>
 
 <div id="definer-bubble-host" style="position: absolute; top: 0px; overflow: visible; z-index: 500000; width: 0px; height: 0px; min-height: 0px; margin: 0px; padding: 0px;"></div></body>
+</body>
+</html>
